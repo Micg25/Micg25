@@ -24,7 +24,7 @@ I am a developer based in **Catania, Italy**. I'm passionate about Cybersecurity
 **Frameworks & Tools**
 <p align="left">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,burp,kali,nmap" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,kali,docker,mysql,linux,blender,windows,maven,mint" />
 </a>
 </p>
 
