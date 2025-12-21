@@ -32,13 +32,6 @@ I am a developer based in **Catania, Italy**. I'm passionate about Cybersecurity
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Micg25&theme=github_dark_highcontrast&hide=forks,commits,prs,prs_merged,contributed&title_color=ffffff&icon_color=ff0101&text_color=ffffff" alt="Stats" />
-  
-  <br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Micg25&theme=github_dark_highcontrast&hide=csharp,c%23&title_color=ffffff&icon_color=ff0101&text_color=ffffff&layout=compact" alt="Languages" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Micg25&theme=github-compact" width="100%" />
