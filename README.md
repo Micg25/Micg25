@@ -17,7 +17,7 @@ I am a developer based in **Catania, Italy**. I'm passionate about Cybersecurity
 **Languages**
 <p align="left">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,cpp,java,asm" />
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,c,cpp,java,asm" />
 </a>
 </p>
 
