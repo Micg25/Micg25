@@ -43,5 +43,5 @@ I am a developer based in **Catania, Italy**. I'm passionate about Cybersecurity
 ---
 
 ### 🔭 Working on
-* 🌱 I’m currently learning Vulnerability Assessment and Penetration Testing
+* 🌱 I’m currently learning Vulnerability Assessment and Penetration Testing, Analysis of Algorithms and their Complexity,  Distributed Systems Engineering for which I'm developing a Java project using Maven that crunches Spotify user datas to give statistics base on the Streaming History, using Design patterns for Distributed Systems. 
 * 🌍 I’m looking for an Intership abroad
