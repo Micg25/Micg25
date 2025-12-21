@@ -24,7 +24,7 @@ I am a developer based in **Catania, Italy**. I'm passionate about Cybersecurity
 **Frameworks & Tools**
 <p align="left">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,kali,docker,mysql,linux,blender,windows,maven,mint" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,mysql,linux,blender,windows,maven,mint,kali" />
 </a>
   <img src="https://img.shields.io/badge/Burp_Suite-%23FF6633.svg?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
   <img src="https://img.shields.io/badge/Nmap-%234F5D95.svg?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
